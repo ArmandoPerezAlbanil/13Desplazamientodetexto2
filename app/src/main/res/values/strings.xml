@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">1.3Desplazamiento de texto</string>
+    <string name="Titulo_del_articulo">Joker</string>
+    <string name="Subtitulo_del_texto">La Vida del joker</string>
+    <string name="Texto_del_articulo">         https://es.wikipedia.org/wiki/Joker
+
+        \n\n
+        Su apariencia es la de un payaso con piel de color blanco, pelo verde y una egocéntrica sonrisa en su rostro.
+        \n\n
+        Todos estos rasgos son dados por un accidente que tuvo en su juventud.
+        \n\n
+        Aunque es un misterio incluso para el mismo Joker, ya que cada vez que cuenta la historia es diferente,
+        \n\n
+        lo más aceptado es el accidente que ocurre en la novela gráfica de Alan Moore Batman: The Killing Joke
+        \n\n
+        ​Ha sido repetidamente analizado por los críticos como el adversario perfecto de Batman, cuya larga relación,
+        \n\n
+        a menudo es paralela al concepto del yin y yang: Batman es un personaje serio, con un traje de colores oscuros
+        \n\n
+        y el Joker es colorido y alocado
+        \n\n
+        En The Joker's Last Laugh que se ubica en un universo alternativo, su psiquiatra lo convence de que se está muriendo,
+        \n\n
+        creyendo que así podría curarlo de su locura.​ En su lugar, empieza a asesinar a todo aquel que oponga en su camino,
+        \n\n
+        y volviendo la apariencia de sus víctimas similar a la de él Lex Luthor y Harley Quinn evitan que sea asesinado por
+        \n\n
+        varios militares.​ En Silencio, el doctor Thomas Elliot busca asesinar a Bruce Wayne, sabiendo que este es Batman,
+        \n\n
+        Elliot toma el alter ego de Hush; sabiendo que Bruce es un gran detective le pide al Joker que finja que lo asesine,
+        \n\n
+        para que Bruce no sospeche de él
+    </string>
+    <string name="Comentario">Agregar Comentario</string>
+
+
+</resources>
